@@ -20,7 +20,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AVL_Tree.h">
+    <ClInclude Include="AVLTree.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
